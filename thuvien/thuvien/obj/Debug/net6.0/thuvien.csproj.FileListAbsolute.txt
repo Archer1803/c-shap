@@ -1,0 +1,14 @@
+D:\LTHDT\thuvien\thuvien\bin\Debug\net6.0\thuvien.exe
+D:\LTHDT\thuvien\thuvien\bin\Debug\net6.0\thuvien.deps.json
+D:\LTHDT\thuvien\thuvien\bin\Debug\net6.0\thuvien.runtimeconfig.json
+D:\LTHDT\thuvien\thuvien\bin\Debug\net6.0\thuvien.dll
+D:\LTHDT\thuvien\thuvien\bin\Debug\net6.0\thuvien.pdb
+D:\LTHDT\thuvien\thuvien\obj\Debug\net6.0\thuvien.GeneratedMSBuildEditorConfig.editorconfig
+D:\LTHDT\thuvien\thuvien\obj\Debug\net6.0\thuvien.AssemblyInfoInputs.cache
+D:\LTHDT\thuvien\thuvien\obj\Debug\net6.0\thuvien.AssemblyInfo.cs
+D:\LTHDT\thuvien\thuvien\obj\Debug\net6.0\thuvien.csproj.CoreCompileInputs.cache
+D:\LTHDT\thuvien\thuvien\obj\Debug\net6.0\thuvien.dll
+D:\LTHDT\thuvien\thuvien\obj\Debug\net6.0\refint\thuvien.dll
+D:\LTHDT\thuvien\thuvien\obj\Debug\net6.0\thuvien.pdb
+D:\LTHDT\thuvien\thuvien\obj\Debug\net6.0\thuvien.genruntimeconfig.cache
+D:\LTHDT\thuvien\thuvien\obj\Debug\net6.0\ref\thuvien.dll

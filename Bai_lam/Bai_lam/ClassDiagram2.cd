@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Bai_lam.MauLuanVanNghienCuu">
+    <Position X="4.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAEAAABAAAAAAAIAAAAAAQAAAIAAAAA=</HashCode>
+      <FileName>MauLuanVanNghienCuu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bai_lam.Program" Collapsed="true">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bai_lam.Sach">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAg=</HashCode>
+      <FileName>Sach.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bai_lam.SachGiaoKhoa">
+    <Position X="7.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAgAAABAAAAAAAIAACAAAAAAAAAAAAAAQAIAAABA=</HashCode>
+      <FileName>SachGiaoKhoa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bai_lam.TapChi">
+    <Position X="10.25" Y="3" Width="1.5" />
+    <InheritanceLine Type="Bai_lam.Sach" ManuallyRouted="true" FixedFromPoint="true">
+      <Path>
+        <Point X="8.812" Y="2.604" />
+        <Point X="8.833" Y="2.727" />
+        <Point X="8.833" Y="2.979" />
+        <Point X="11" Y="2.979" />
+        <Point X="11" Y="3" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>CCAAgAAAABAAAAAAAAAAAQAAAAAAAAAAQAAAAIAAABA=</HashCode>
+      <FileName>TapChi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="10" />
+</ClassDiagram>

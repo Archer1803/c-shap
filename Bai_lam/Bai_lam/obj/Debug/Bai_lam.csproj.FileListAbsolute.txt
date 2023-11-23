@@ -1,0 +1,6 @@
+D:\quynh\Bai_lam\Bai_lam\bin\Debug\Bai_lam.exe.config
+D:\quynh\Bai_lam\Bai_lam\bin\Debug\Bai_lam.exe
+D:\quynh\Bai_lam\Bai_lam\bin\Debug\Bai_lam.pdb
+D:\quynh\Bai_lam\Bai_lam\obj\Debug\Bai_lam.csprojResolveAssemblyReference.cache
+D:\quynh\Bai_lam\Bai_lam\obj\Debug\Bai_lam.exe
+D:\quynh\Bai_lam\Bai_lam\obj\Debug\Bai_lam.pdb
